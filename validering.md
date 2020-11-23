@@ -10,6 +10,9 @@
 * Fixade time elementet.
 * La till ett p element som saknades.
 * Fixade time taggen på linje 42. Separerade '1720' och '1799' till varsin time tag.
+* Stängde ett a element.
+* Flyttade in Li elementen under referenser in i ul elementet.
+* Fixade stavfel från 'LI' till 'Li'.
 
 
 ##Css
