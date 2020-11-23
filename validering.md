@@ -23,3 +23,7 @@
 * Tog bort .footer från css eftersom den aldrig används.
 * Fixade bakgrundsbilden.
 * La till rem på fontsize och marginbottom.
+* Gjorde texten mer synlig genom att göra bakgrunden på main mer synlig.
+
+##Media
+* Ändrade bildstorleken på bakgrunden så att filstorleken blev mindre.
