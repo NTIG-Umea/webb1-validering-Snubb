@@ -14,6 +14,7 @@
 * Flyttade in Li elementen under referenser in i ul elementet.
 * Fixade stavfel från 'LI' till 'Li'.
 * Tog bort width tagen från bilden eftersom bilden redan var 250px bred.
+* La till ett '#' i länkarna i navbar så att dom faktiskt fungerade.
 
 
 ##Css
