@@ -13,6 +13,7 @@
 * Stängde ett a element.
 * Flyttade in Li elementen under referenser in i ul elementet.
 * Fixade stavfel från 'LI' till 'Li'.
+* Tog bort width tagen från bilden eftersom bilden redan var 250px bred.
 
 
 ##Css
