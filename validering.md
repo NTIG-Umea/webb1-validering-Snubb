@@ -7,7 +7,9 @@
 * Tog bort en center tag från ett h1 element och flyttade det till css stylesheeten.
 * Rättade till en /h2 tag till /h3.
 * Tog bort onödig 'px' från bildens bredd.
-* Fixade time elementet
+* Fixade time elementet.
+* La till ett p element som saknades.
+* Fixade time taggen på linje 42. Separerade '1720' och '1799' till varsin time tag.
 
 
 ##Css
