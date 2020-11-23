@@ -15,6 +15,7 @@
 * Fixade stavfel från 'LI' till 'Li'.
 * Tog bort width tagen från bilden eftersom bilden redan var 250px bred.
 * La till ett '#' i länkarna i navbar så att dom faktiskt fungerade.
+* Fixade stavfel. 'log.png' hade stor bokstav.
 
 
 ## Css
