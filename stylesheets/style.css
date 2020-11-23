@@ -25,6 +25,7 @@ p {
 
 h1 {
   font-size: 3rem;
+  text-align: center;
 }
 
 .h2 {
@@ -40,7 +41,7 @@ h1 {
   margin: 1rem
 }
 
-.info h3 {
+.info, h3 {
   color: #efefef;
   background-color: #666666;
   margin-bottom: 0.2;

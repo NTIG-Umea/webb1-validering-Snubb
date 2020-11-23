@@ -7,6 +7,6 @@
 
 ##Css
 * Stängde citatet på linje 6
-* Rättade till paddin --> padding på linje 19
-* Tog bort '<' på linje 43. Ett mellansslag är nog för att lägga till flera element.
+* Rättade till 'paddin' --> 'padding' på linje 19
+* Tog bort '<' på linje 43. Ett komma är nog för att lägga till flera element.
 * Tog bort .footer från css eftersom den aldrig används.
