@@ -1,5 +1,5 @@
-#Rättade fel
-##Html
+# Rättade fel
+## Html
 * Erstatte hela texten med rätt text(med åäö) och lade till UTF-8 så att de svenska bokstäverna läses in korrekt.
 * La till citatteceken på 'id="5"' på linje 46
 * Stängde citattecknet för länken i linje 50 så att resten av texten inte räknades som en länk.
@@ -17,7 +17,7 @@
 * La till ett '#' i länkarna i navbar så att dom faktiskt fungerade.
 
 
-##Css
+## Css
 * Stängde citatet på linje 6
 * Rättade till 'paddin' --> 'padding' på linje 19
 * Tog bort '<' på linje 43. Ett komma är nog för att lägga till flera element.
@@ -26,5 +26,5 @@
 * La till rem på fontsize och marginbottom.
 * Gjorde texten mer synlig genom att göra bakgrunden på main mer synlig.
 
-##Media
+## Media
 * Ändrade bildstorleken på bakgrunden så att filstorleken blev mindre.
